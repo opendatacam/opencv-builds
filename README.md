@@ -1,4 +1,4 @@
-# Builds of opencv for opendatacam
+# [DEPRECATED] Builds of opencv for opendatacam
 
 With gstreamer support and correct ARCH flag
 
